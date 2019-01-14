@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1543805625 source:c:\users\sr080\documents\ada project\knapsack\dynamic.cpp
+	"Dynamic.h"
+
+1543468743 c:\users\sr080\documents\ada project\knapsack\dynamic.h
+
+1543804609 source:c:\users\sr080\documents\ada project\knapsack\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<bits/stdc++.h>
+	"Dynamic.h"
+	"GreedyStrategy.h"
+	"BruteForce.h"
+	"GreedyTrial.h"
+
+1543767720 source:c:\users\sr080\documents\ada project\knapsack\greedystrategy.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+	<iomanip>
+	"GreedyStrategy.h"
+
+1543639620 c:\users\sr080\documents\ada project\knapsack\greedystrategy.h
+
+1543803489 source:c:\users\sr080\documents\ada project\knapsack\bruteforce.cpp
+	"BruteForce.h"
+	<cmath>
+	<cstdlib>
+	<bits/stdc++.h>
+	<iostream>
+
+1543639076 c:\users\sr080\documents\ada project\knapsack\bruteforce.h
+	<string>
+	<iostream>
+
+1543682645 source:c:\users\sr080\documents\ada project\knapsack\greedytrial.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+	"GreedyTrial.h"
+
+1543639041 c:\users\sr080\documents\ada project\knapsack\greedytrial.h
+
+1543959429 source:c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\bruteforce.cpp
+	"BruteForce.h"
+	<cmath>
+	<cstdlib>
+	<bits/stdc++.h>
+	<iostream>
+
+1543959455 c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\bruteforce.h
+	<string>
+	<iostream>
+
+1543812155 source:c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\dynamic.cpp
+	"Dynamic.h"
+
+1543812155 c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\dynamic.h
+
+1543812155 source:c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\greedystrategy.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+	<iomanip>
+	"GreedyStrategy.h"
+
+1543812156 c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\greedystrategy.h
+
+1543968262 source:c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<bits/stdc++.h>
+	"Dynamic.h"
+	"GreedyStrategy.h"
+	"BruteForce.h"
+	"GreedyTrial.h"
+
+1543812156 c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\knapsack\knapsack\greedytrial.h
+
